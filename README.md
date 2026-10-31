@@ -1,14 +1,5 @@
-Watch my complete Book Store API Project demonstration below.
+<img width="1530" height="812" alt="image" src="https://github.com/user-attachments/assets/eaaf294d-c567-47e1-9728-ea61c31c490a" />
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1gJT1Mgu4rZHOVPxu0ucE-OTzcnmwqud5/view?usp=sharing" target="_blank">
-    <img src="./assets/bookstore-demo.png" alt="BOOKHIVE Project Video Thumbnail" width="850">
-  </a>
-</p>
-
-<p align="center">
-  <b>▶ Click the thumbnail to watch the complete project explanation on Google Drive.</b>
-</p>
 
 # 📚 BOOKHIVE – Book Store API Project
 
