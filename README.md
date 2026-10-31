@@ -1,4 +1,14 @@
-<img width="1530" height="812" alt="image" src="https://github.com/user-attachments/assets/eaaf294d-c567-47e1-9728-ea61c31c490a" />
+## 🎥 BOOKHIVE – Project Video Demonstration
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1gJT1Mgu4rZHOVPxu0ucE-OTzcnmwqud5/view?usp=sharing">
+    <img src="./bookhive-video-thumbnail.png" alt="BOOKHIVE Project Video Demonstration" width="850">
+  </a>
+</p>
+
+<p align="center">
+  ▶ Click the thumbnail to watch my complete project explanation on Google Drive.
+</p>
 
 
 # 📚 BOOKHIVE – Book Store API Project
