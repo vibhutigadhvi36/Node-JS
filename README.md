@@ -25,16 +25,6 @@ The backend provides RESTful APIs for book management and order management, whil
 
 Click the thumbnail below to watch the complete project demonstration, including the frontend, backend, API testing, and database connectivity.
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1gJT1Mgu4rZHOVPxu0ucE-OTzcnmwqud5/view?usp=sharing">
-    <img src="./assets/bookstore-demo.png" alt="BOOKHIVE Book Store Project Demonstration" width="85%" />
-  </a>
-</p>
-
-<p align="center">
-  <b>▶ Click the image to watch the project demonstration.</b>
-</p>
-
 ## ✨ Features
 
 ### Frontend Features
